@@ -1,3 +1,5 @@
+'''commentaar'''
+
 import sys
 print sys.version
 print '__name__', __name__
