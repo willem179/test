@@ -1,3 +1,4 @@
 import sys
 print sys.version
-print __name__, __file__
+print '__name__', __name__
+print '__file__', __file__
