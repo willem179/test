@@ -9,3 +9,4 @@ xs = os.listdir ('.')
 for x in xs: print x
 # bla
 # bla in master
+print 'regel in kloon toegevoegd'
